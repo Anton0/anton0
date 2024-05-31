@@ -1,4 +1,4 @@
-## Hi there 👋 🇦🇺
+**Hi there 👋 🇦🇺**
 
 I'm Anthony Engelstad and, my passsion is fixing broken things, even if it means I have to break them myself first 🛠️
 
